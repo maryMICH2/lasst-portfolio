@@ -1,4 +1,3 @@
-
 /*--------------small screen-----------*/
 @media only screen and (min-width:360px) and (max-width:600px) {
     * {
@@ -43,7 +42,7 @@
         height: 85vh;
         display: flex;
         align-items: center;
-        background: url(/images/mmm.jpg) no-repeat ;
+        background: url(images/mmm.jpg) no-repeat ;
         background-size: cover;
      }
      .mn h2 {
@@ -164,7 +163,7 @@
             width: 1fr;
             grid-area: mn;
             display: flex;
-            background:url(/images/8bdbd30d6d18f1378dba928c7b5cef26.jpg) no-repeat;
+            background:url(images/8bdbd30d6d18f1378dba928c7b5cef26.jpg) no-repeat;
             background-size: cover;
         }
         
@@ -255,7 +254,7 @@
           height: 85vh;
           display: flex;
           align-items: center;
-          background: url(/images/mmm.jpg) no-repeat ;
+          background: url(images/mmm.jpg) no-repeat ;
           background-size: cover;
        }
        .mn h2 {
@@ -387,7 +386,7 @@
         width: 1fr;
         grid-area: mn;
         display: flex;
-        background:url(/images/8bdbd30d6d18f1378dba928c7b5cef26.jpg) no-repeat;
+        background:url(images/8bdbd30d6d18f1378dba928c7b5cef26.jpg) no-repeat;
         background-size: cover;
     }
     
@@ -476,7 +475,7 @@
           height: 85vh;
           display: flex;
           align-items: center;
-          background: url(/images/mmm.jpg) no-repeat ;
+          background: url(images/mmm.jpg) no-repeat ;
           background-size: cover;
        }
        .mn h2 {
@@ -607,7 +606,7 @@ display: flex;
         width: 1fr;
         grid-area: mn;
         display: flex;
-        background:url(/images/8bdbd30d6d18f1378dba928c7b5cef26.jpg) no-repeat;
+        background:url(images/8bdbd30d6d18f1378dba928c7b5cef26.jpg) no-repeat;
         background-size: cover;
     }
     
